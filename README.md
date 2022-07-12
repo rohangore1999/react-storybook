@@ -1,3 +1,26 @@
+
+# React Storybook
+
+storybook - collections of the stories
+story - each story represent single visual state of component
+
+usually we create story of each UI components.
+
+To install storybook in project
+	- npx sb init
+
+To start storybook env
+	-  npm start storybook
+
+
+To create Story we have 3 components:
+- Button.js (component itself)
+- Button.css (styling file)
+- Button.stories.js (story file)
+
+
+-------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
