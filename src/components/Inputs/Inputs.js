@@ -3,7 +3,7 @@ import './Inputs.css'
 
 function Inputs({size='extraLarge',...rest}) {
   return (
-    <input className={`inputs ${size}`} placeholder='enter text...' />
+    <input className={`inputs ${size}`} placeholder='enter text....' />
   )
 }
 
